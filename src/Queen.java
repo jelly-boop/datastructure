@@ -10,6 +10,7 @@ public class Queen {
 		for(int i=0;i<8;i++) {
 			System.out.printf("%2d",pos[i]);
 			System.out.println();
+			
 		}
 	}
 	
